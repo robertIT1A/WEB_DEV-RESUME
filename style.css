@@ -75,6 +75,7 @@ img {
   padding: 10px;
 }
 
+
 .interest{
   width: 200px;
   border: solid 3px;
@@ -155,4 +156,5 @@ img {
 .hire {
   display: flex;
   justify-content: center;
+
 }
